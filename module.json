@@ -1,0 +1,13 @@
+{
+  "name": "foundry-vtt-quick-module-context-menu-settings",
+  "title": "Foundry VTT Quick Module Context Menu Settings",
+  "description": "Injects Chat Control Icon Context Menu For Quick Settings Updates.",
+  "version": "1.0.0",
+  "author": "blargent",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": ["./scripts/index.js"],
+  "url": "https://github.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings",
+  "manifest": "https://raw.githubusercontent.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings/main/module.json",
+  "download": "https://github.com/BrettLargent/foundry-vtt-quick-module-context-menu-settings/archive/refs/heads/main.zip"
+}
