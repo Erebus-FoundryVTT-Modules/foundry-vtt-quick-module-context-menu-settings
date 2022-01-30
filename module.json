@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "author": "blargent",
   "minimumCoreVersion": "0.7.5",
-  "compatibleCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9.245",
   "scripts": ["./scripts/index.js"],
   "url": "https://github.com/Erebus-FoundryVTT-Modules/foundry-vtt-quick-module-context-menu-settings",
   "manifest": "https://raw.githubusercontent.com/Erebus-FoundryVTT-Modules/foundry-vtt-quick-module-context-menu-settings/main/module.json",
